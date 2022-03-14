@@ -6,7 +6,7 @@ One of the Deterministic Finite Automatons applications is the implementation of
 * Integer
 * Float (Real Numbers)
 * Operators
-  * Assgnation
+  * Assignation
   * Addition
   * Subtraction
   * Multiplication
