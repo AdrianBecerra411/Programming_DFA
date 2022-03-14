@@ -28,6 +28,9 @@ Python
 3. Decompress the Zip File
 4. You can modify the txt.file 
 
+#### Approach
+I decided to tackle the DFA with a transition table using dictionaries in python. This way I could easily traverse the states and work directly with my diagram and transition table. By using conditionals, y moved through each state and managed to solve the DFA.
+
 #### Example
 b=7
 
